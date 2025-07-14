@@ -1,0 +1,31 @@
+.header {
+   color: #4c4c4c;
+   padding-bottom: 15px;
+   border-bottom: 1px solid #e6e6e6;
+}
+
+.header a {
+   font-weight: 500;
+}
+
+.header a:hover {
+   text-decoration: underline;
+   color: red;
+}
+
+.content p {
+   line-height: 1.8;
+}
+
+.content img {
+   border-radius: 5px;
+   width: 100%;
+   margin-top: 8px;
+}
+
+.source {
+   text-align: end;
+   font-size: 16px;
+   font-weight: 500;
+   margin-bottom: 15px;
+}

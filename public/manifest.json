@@ -1,0 +1,17 @@
+{
+	"theme_color": "#3b82f6",
+	"background_color": "#f8fafc",
+	"display": "TKCN",
+	"scope": "/",
+	"start_url": "/",
+	"name": "TKCN.GOV.VN",
+	"short_name": "TKCN",
+	"description": "TKCN.GOV.VN",
+	"icons": [
+		{
+			"src": "/next.svg",
+			"sizes": "192x192",
+			"type": "image/svg+xml"
+		}
+	]
+}
